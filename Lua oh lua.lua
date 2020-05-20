@@ -1,0 +1,6 @@
+print("LUA BYTES")
+print("Enter your message + Numbers")
+local message = io.read()
+local num1 = io.read()
+local num2 = io.read()
+print(string.byte(message,num1,num2))

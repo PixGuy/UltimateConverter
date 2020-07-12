@@ -7,3 +7,4 @@ Instructions:
 <p>Done!</p>
 <p>Warning: In order to use UC You must have a LUA IDE! Do not copy and repost UC without permission!
 <p>Recommended LUA IDES: Repl.it, Zerobrane Studio and Visual Studio Code
+<p>-->http://github.com/PixGuy/UltimateConverter/releases/<-- Releases
